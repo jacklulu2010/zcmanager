@@ -7,9 +7,6 @@ import com.fh.util.PageData;
 
 /** 
  * 说明： 商品管理接口
- * 创建人：FH Q936102123
- * 创建时间：2016-09-09
- * @version
  */
 public interface GoodsManager{
 

@@ -3,8 +3,6 @@ package com.fh.util;
 import org.springframework.context.ApplicationContext;
 /**
  * 项目名称：
- * @author:fh qq936102123[flj]
- * 修改日期：2015/11/2
 */
 public class Const {
 	public static final String SESSION_SECURITY_CODE = "sessionSecCode";	//验证码

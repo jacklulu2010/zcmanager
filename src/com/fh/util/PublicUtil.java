@@ -5,9 +5,6 @@ import java.net.UnknownHostException;
 
 /** 
  * 说明：IP处理
- * 创建人：FH Q936102123
- * 修改时间：2014年9月20日
- * @version
  */
 public class PublicUtil {
 	

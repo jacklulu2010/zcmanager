@@ -31,8 +31,6 @@ import com.fh.util.Tools;
 
 /** 
  * 说明：所有客户
- * 创建人：FH Q936102123
- * 创建时间：2017-03-04
  */
 @Controller
 @RequestMapping(value="/allcustomer")

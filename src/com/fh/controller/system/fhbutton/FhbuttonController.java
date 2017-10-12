@@ -29,8 +29,6 @@ import com.fh.service.system.fhbutton.FhbuttonManager;
 
 /** 
  * 说明：按钮管理
- * 创建人：FH Q936102123
- * 创建时间：2016-01-15
  */
 @Controller
 @RequestMapping(value="/fhbutton")

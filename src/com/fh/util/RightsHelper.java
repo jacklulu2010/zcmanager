@@ -4,8 +4,6 @@ import java.math.BigInteger;
 
 /**
  * 权限计算帮助类
- * @author fh qq 3 1 3 5 96790[flj]
- * 修改日期：2015/11/2
  */
 public class RightsHelper {
 	/**

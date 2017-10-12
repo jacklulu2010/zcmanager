@@ -10,9 +10,6 @@ import com.fh.service.erp.customerimg.CustomerImgManager;
 
 /** 
  * 说明： 客户跟踪描述
- * 创建人：FH Q936102123
- * 创建时间：2017-03-04
- * @version
  */
 @Service("customerimgService")
 public class CustomerImgService implements CustomerImgManager{

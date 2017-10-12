@@ -12,9 +12,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * 说明：爬取网页 创建人：FH Q 3 1359 679 0 修改时间：2016年3月24日
- * 
- * @version
+ * 说明：爬取网页
  */
 public class GetWeb {
 

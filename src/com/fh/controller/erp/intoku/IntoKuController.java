@@ -31,8 +31,6 @@ import com.fh.service.erp.intoku.IntoKuManager;
 
 /** 
  * 说明：商品入库
- * 创建人：FH Q936102123
- * 创建时间：2017-02-22
  */
 @Controller
 @RequestMapping(value="/intoku")

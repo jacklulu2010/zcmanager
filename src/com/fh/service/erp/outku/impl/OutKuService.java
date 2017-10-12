@@ -13,9 +13,6 @@ import com.fh.service.erp.outku.OutKuManager;
 
 /** 
  * 说明： 商品出库
- * 创建人：FH Q936102123
- * 创建时间：2016-09-21
- * @version
  */
 @Service("outkuService")
 public class OutKuService implements OutKuManager{

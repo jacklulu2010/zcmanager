@@ -5,12 +5,6 @@ import java.util.List;
 /**
  * 
 * 类名称：数据字典
-* 类描述： 
-* @author FH QQ 936102123[flj]
-* 作者单位： 
-* 联系方式：
-* 修改时间：2015年12月16日
-* @version 2.0
  */
 public class Dictionaries {
 

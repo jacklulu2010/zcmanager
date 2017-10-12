@@ -38,8 +38,6 @@ import com.fh.service.information.pictures.PicturesManager;
 
 /** 
  * 说明：商品管理(明细)
- * 创建人：FH Q936102123
- * 创建时间：2016-09-09
  */
 @Controller
 @RequestMapping(value="/goodsmx")

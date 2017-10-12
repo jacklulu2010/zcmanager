@@ -9,7 +9,6 @@ import java.util.Set;
 import javax.servlet.http.HttpServletRequest;
 /** 
  * 说明：参数封装Map
- * @version
  */
 public class PageData extends HashMap implements Map{
 	

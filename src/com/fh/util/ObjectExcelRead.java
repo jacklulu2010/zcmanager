@@ -13,9 +13,6 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 
 /**
  * 从EXCEL导入到数据库
- * 创建人：FH Q936102123
- * 创建时间：2014年12月23日
- * @version
  */
 public class ObjectExcelRead {
 

@@ -1,11 +1,5 @@
 package com.fh.util;
 
-/** 
- * 说明：
- * 创建人：FH Q936102123
- * 修改时间：2015年11月24日
- * @version
- */
 public class Constants {
 	
 	public static String PICTURE_VISIT_FILE_PATH = "";//图片访问的路径

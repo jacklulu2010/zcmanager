@@ -32,8 +32,6 @@ import com.fh.service.erp.remarks.RemarksManager;
 
 /** 
  * 说明：客户管理
- * 创建人：FH Q936102123
- * 创建时间：2017-02-18
  */
 @Controller
 @RequestMapping(value="/customer")

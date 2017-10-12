@@ -1,11 +1,5 @@
 package com.fh.util;
 
-/** 
- * 说明：
- * 创建人：FH Q936102123
- * 修改时间：2015年11月24日
- * @version
- */
 public class LatLonUtil {
 
 	private static final double PI = 3.14159265; // 圆周率

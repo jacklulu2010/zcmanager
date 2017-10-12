@@ -30,8 +30,6 @@ import com.fh.service.system.role.RoleManager;
 
 /** 
  * 说明：按钮权限
- * 创建人：FH Q936102123
- * 创建时间：2016-01-16
  */
 @Controller
 @RequestMapping(value="/buttonrights")

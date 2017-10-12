@@ -46,10 +46,6 @@ import com.fh.util.Tools;
 /**
  * 总入口
  */
-/**
- * @author Administrator
- *
- */
 @Controller
 public class LoginController extends BaseController {
 

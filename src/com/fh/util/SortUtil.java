@@ -13,9 +13,6 @@ import org.apache.commons.collections.comparators.ComparableComparator;
 import org.apache.commons.collections.comparators.ComparatorChain;
 /** 
  * 说明：list排序
- * 创建人：FH Q936102123
- * 修改时间：2015年11月24日
- * @version
  */
 public class SortUtil {
 	public static void main(String[] args) {

@@ -29,8 +29,6 @@ import com.fh.service.erp.outku.OutKuManager;
 
 /** 
  * 说明：商品出库
- * 创建人：FH Q936102123
- * 创建时间：2017-02-22
  */
 @Controller
 @RequestMapping(value="/outku")

@@ -225,7 +225,6 @@ public class Tools {
 	 */
 	public static String readTxtFile(String fileP) {
 		try {
-			System.out.print(Thread.currentThread().getContextClassLoader().getResource("/"));
 			String filePath = String.valueOf(Thread.currentThread().getContextClassLoader().getResource("/"))+"../../";	//项目路径
 			filePath = filePath.replaceAll("file:/", "");
 			filePath = filePath.replaceAll("%20", " ");

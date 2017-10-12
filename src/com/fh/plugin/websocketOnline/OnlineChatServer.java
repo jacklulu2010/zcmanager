@@ -14,9 +14,6 @@ import org.java_websocket.server.WebSocketServer;
 
 /**
  * 在线管理
- * @author FH
- * QQ 936102123
- * 2015-5-25
  */
 public class OnlineChatServer extends WebSocketServer{
 

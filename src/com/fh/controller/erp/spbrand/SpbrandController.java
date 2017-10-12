@@ -26,8 +26,6 @@ import com.fh.service.erp.spbrand.SpbrandManager;
 
 /** 
  * 说明：品牌管理
- * 创建人：FH Q936102123
- * 创建时间：2017-02-21
  */
 @Controller
 @RequestMapping(value="/spbrand")

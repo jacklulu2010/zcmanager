@@ -10,9 +10,6 @@ import com.fh.service.erp.level.LevelManager;
 
 /** 
  * 说明： 客户级别
- * 创建人：FH Q936102123
- * 创建时间：2017-02-19
- * @version
  */
 @Service("levelService")
 public class LevelService implements LevelManager{

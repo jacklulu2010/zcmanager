@@ -4,12 +4,6 @@ import java.util.List;
 /**
  * 
 * 类名称：菜单
-* 类描述： 
-* @author FH QQ 936102123[flj]
-* 作者单位： 
-* 联系方式：
-* 创建时间：2015年7月27日
-* @version 2.0
  */
 public class Menu {
 	

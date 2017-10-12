@@ -11,9 +11,6 @@ import Decoder.BASE64Encoder;
 
 /** 
  * 说明：BASE64处理
- * 创建人：FH Q936102123
- * 修改时间：2015年11月24日
- * @version
  */
 public class ImageAnd64Binary {
     public static void main(String[] args){

@@ -6,9 +6,6 @@ import com.fh.util.PageData;
 
 /** 
  * 说明： 客户管理接口
- * 创建人：FH Q936102123
- * 创建时间：2017-02-18
- * @version
  */
 public interface CustomerManager{
 

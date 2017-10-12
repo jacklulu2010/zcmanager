@@ -35,9 +35,6 @@ import org.apache.commons.logging.LogFactory;
 
 /** 
  * 说明：用于备份、还原数据库、在线编辑SQL
- * 创建人：FH Q936102123
- * 修改时间：2016年3月29日
- * @version
  */
 public class DbFH{
 	private static Log logger = LogFactory.getLog(DbFH.class);

@@ -26,8 +26,6 @@ import com.fh.service.erp.spunit.SpunitManager;
 
 /** 
  * 说明：计量单位
- * 创建人：FH Q936102123
- * 创建时间：2017-02-21
  */
 @Controller
 @RequestMapping(value="/spunit")

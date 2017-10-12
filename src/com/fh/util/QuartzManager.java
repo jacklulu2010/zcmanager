@@ -14,9 +14,7 @@ import org.quartz.TriggerBuilder;
 import org.quartz.TriggerKey;
 import org.quartz.impl.StdSchedulerFactory;  
   
-/** 定时任务管理类 
- * @author FH 3 13 59679 0 Q
- * @date 2016-4-9
+/** 定时任务管理类
  */
 public class QuartzManager {  
     private static SchedulerFactory gSchedulerFactory = new StdSchedulerFactory();  //创建一个SchedulerFactory工厂实例

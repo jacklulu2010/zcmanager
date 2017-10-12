@@ -11,9 +11,6 @@ import org.java_websocket.WebSocket;
 
 /**
  * 即时通讯
- * @author FH
- * QQ 936102123
- * 2015-5-16
  */
 public class ChatServerPool {
 

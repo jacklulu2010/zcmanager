@@ -10,9 +10,6 @@ import com.fh.service.erp.sptype.SptypeManager;
 
 /** 
  * 说明： 商品类别
- * 创建人：FH Q936102123
- * 创建时间：2016-09-08
- * @version
  */
 @Service("sptypeService")
 public class SptypeService implements SptypeManager{

@@ -8,9 +8,6 @@ import java.util.Date;
 
 /** 
  * 说明：日期处理
- * 创建人：FH Q936102123
- * 修改时间：2015年11月24日
- * @version
  */
 public class DateUtil {
 	

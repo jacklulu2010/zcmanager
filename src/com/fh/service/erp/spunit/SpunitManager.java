@@ -6,9 +6,6 @@ import com.fh.util.PageData;
 
 /** 
  * 说明： 计量单位接口
- * 创建人：FH Q936102123
- * 创建时间：2016-09-09
- * @version
  */
 public interface SpunitManager{
 
