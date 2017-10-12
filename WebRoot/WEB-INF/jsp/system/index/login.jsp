@@ -101,7 +101,7 @@
 						<div class="main_input_box">
 							<span class="add-on bg_ly">
 							<i><img height="37" src="static/login/suo.png" /></i>
-							</span><input type="password" name="password" id="password" placeholder="请输入密码" class="keypad" keypadMode="full" allowKeyboard="true" value=""/>
+							</span><input type="password" name="password" id="password" placeholder="请输入密码" keypadMode="full" allowKeyboard="true" value=""/>
 						</div>
 					</div>
 				</div>
@@ -136,7 +136,7 @@
 			</form>
 			<div class="controls">
 				<div class="main_input_box">
-					<font color="white"><span id="nameerr">Copyright © FHqq936102123 2100</span></font>
+					<font color="white"><span id="nameerr">Copyright © 936102123</span></font>
 				</div>
 			</div>
 		</div>
