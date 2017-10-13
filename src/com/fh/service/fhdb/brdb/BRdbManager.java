@@ -6,9 +6,6 @@ import com.fh.util.PageData;
 
 /** 
  * 说明： 数据库管理接口
- * 创建人：FH Q936102123
- * 创建时间：2016-03-30
- * @version
  */
 public interface BRdbManager{
 

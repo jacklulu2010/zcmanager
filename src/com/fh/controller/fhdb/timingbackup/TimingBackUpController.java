@@ -32,8 +32,6 @@ import com.fh.service.fhdb.timingbackup.TimingBackUpManager;
 
 /** 
  * 说明：定时备份
- * 创建人：FH Q936102123
- * 创建时间：2016-04-09
  */
 @Controller
 @RequestMapping(value="/timingbackup")

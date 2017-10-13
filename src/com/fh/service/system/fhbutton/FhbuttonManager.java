@@ -6,9 +6,6 @@ import com.fh.util.PageData;
 
 /** 
  * 说明：按钮管理 接口
- * 创建人：FH Q936102123
- * 创建时间：2016-01-15
- * @version
  */
 public interface FhbuttonManager{
 

@@ -6,9 +6,6 @@ import com.fh.util.PageData;
 
 /** 
  * 说明： 站内信接口
- * 创建人：FH Q936102123
- * 创建时间：2016-01-17
- * @version
  */
 public interface FhsmsManager{
 

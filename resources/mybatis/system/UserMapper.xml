@@ -369,6 +369,5 @@
 		from 
 		<include refid="tableName"></include>
 	</select>
-	
-	<!-- fh936102123qq(flj) -->
+
 </mapper>

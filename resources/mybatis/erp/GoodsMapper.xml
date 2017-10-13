@@ -226,6 +226,5 @@
 		where 
 			GOODS_ID = #{GOODS_ID}
 	</update>
-	
-	<!-- fh936102123qq(flj) -->
+
 </mapper>

@@ -46,10 +46,10 @@ var jsessionid = "<%=session.getId()%>";  //勿删，uploadify兼容火狐用到
 						 <div class="span6">
 							<div class="tabbable">
 						            <ul class="nav nav-tabs" id="myTab">
-						              <li class="active"><a data-toggle="tab" href="#home"><i class="green icon-home bigger-110"></i> 配置 NO1</a></li>
-						              <li><a data-toggle="tab" href="#profile"><i class="green icon-cog bigger-110"></i>配置 NO2</a></li>
-						              <li><a data-toggle="tab" href="#profile3"><i class="green icon-cog bigger-110"></i>配置 NO3</a></li>
-						              <li><a data-toggle="tab" href="#profile4"><i class="green icon-cog bigger-110"></i>配置 NO4</a></li>
+						              <li class="active"><a data-toggle="tab" href="#home"><i class="green icon-home bigger-110"></i>系统配置</a></li>
+						              <li><a data-toggle="tab" href="#profile"><i class="green icon-cog bigger-110"></i>水印配置</a></li>
+						              <li><a data-toggle="tab" href="#profile3"><i class="green icon-cog bigger-110"></i>服务器配置</a></li>
+						              <li><a data-toggle="tab" href="#profile4"><i class="green icon-cog bigger-110"></i>登录页配置</a></li>
 						            </ul>
 						            <div class="tab-content">
 									  <div id="home" class="tab-pane in active">

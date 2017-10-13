@@ -77,6 +77,5 @@
 	<bean name="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">   
     	<property name="dataSource" ref="dataSource"></property>
  	</bean>
-	
- 	<!-- QQ936102123 -->
+
 </beans>

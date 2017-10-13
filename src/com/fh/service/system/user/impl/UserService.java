@@ -14,8 +14,6 @@ import com.fh.util.PageData;
 
 
 /** 系统用户
- * @author fh936102123qq(flj)
- * 修改时间：2015.11.2
  */
 @Service("userService")
 public class UserService implements UserManager{

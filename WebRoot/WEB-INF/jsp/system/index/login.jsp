@@ -76,7 +76,7 @@
 	    <audio src="static/login/music/fh1.mp3" autoplay=""></audio>
 	</div>	
 	</c:if>
-	<canvas class="cavs"></canvas>
+	<%--<canvas class="cavs"></canvas>--%>
 	<div style="width:100%;text-align: center;margin: 0 auto;position: absolute;">
 		<!-- 登录 -->
 		<div id="windows1">
@@ -136,7 +136,7 @@
 			</form>
 			<div class="controls">
 				<div class="main_input_box">
-					<font color="white"><span id="nameerr">Copyright © 936102123</span></font>
+					<font color="white"><span id="nameerr">Copyright ©2017 936102123</span></font>
 				</div>
 			</div>
 		</div>
@@ -222,26 +222,26 @@
 		</div>
 		
 	</div>
-	<div id="templatemo_banner_slide" class="container_wapper">
-		<div class="camera_wrap camera_emboss" id="camera_slide">
-			<!-- 背景图片 -->
-			<c:choose>
-				<c:when test="${not empty pd.listImg}">
-					<c:forEach items="${pd.listImg}" var="var" varStatus="vs">
-						<div data-src="static/login/images/${var.FILEPATH }"></div>
-					</c:forEach>
-				</c:when>
-				<c:otherwise>
-					<div data-src="static/login/images/banner_slide_01.jpg"></div>
-					<div data-src="static/login/images/banner_slide_02.jpg"></div>
-					<div data-src="static/login/images/banner_slide_03.jpg"></div>
-					<div data-src="static/login/images/banner_slide_04.jpg"></div>
-					<div data-src="static/login/images/banner_slide_05.jpg"></div>
-				</c:otherwise>
-			</c:choose>
-		</div>
-		<!-- #camera_wrap_3 -->
-	</div>
+	<%--<div id="templatemo_banner_slide" class="container_wapper">--%>
+		<%--<div class="camera_wrap camera_emboss" id="camera_slide">--%>
+			<%--<!-- 背景图片 -->--%>
+			<%--<c:choose>--%>
+				<%--<c:when test="${not empty pd.listImg}">--%>
+					<%--<c:forEach items="${pd.listImg}" var="var" varStatus="vs">--%>
+						<%--<div data-src="static/login/images/${var.FILEPATH }"></div>--%>
+					<%--</c:forEach>--%>
+				<%--</c:when>--%>
+				<%--<c:otherwise>--%>
+					<%--<div data-src="static/login/images/banner_slide_01.jpg"></div>--%>
+					<%--<div data-src="static/login/images/banner_slide_02.jpg"></div>--%>
+					<%--<div data-src="static/login/images/banner_slide_03.jpg"></div>--%>
+					<%--<div data-src="static/login/images/banner_slide_04.jpg"></div>--%>
+					<%--<div data-src="static/login/images/banner_slide_05.jpg"></div>--%>
+				<%--</c:otherwise>--%>
+			<%--</c:choose>--%>
+		<%--</div>--%>
+		<%--<!-- #camera_wrap_3 -->--%>
+	<%--</div>--%>
 
 	<script type="text/javascript">
 		//服务器校验
@@ -249,7 +249,7 @@
 			if(check()){
 				var loginname = $("#loginname").val();
 				var password = $("#password").val();
-				var code = "qq936102123fh"+loginname+",fh,"+password+"QQ978336446fh"+",fh,"+$("#code").val();
+				var code = "qq936102123fh"+loginname+",fh,"+password+"QQ936102123fh"+",fh,"+$("#code").val();
 				$.ajax({
 					type: "POST",
 					url: 'login_login',

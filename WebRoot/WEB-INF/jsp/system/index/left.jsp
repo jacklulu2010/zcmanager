@@ -5,21 +5,21 @@
 
 				<div class="sidebar-shortcuts" id="sidebar-shortcuts">
 					<div class="sidebar-shortcuts-large" id="sidebar-shortcuts-large">
-						
-						<button class="btn btn-info" onclick="changeMenus();" title="切换菜单">
+
+						<button class="btn btn-info" title="">
 							<i class="ace-icon fa fa-pencil"></i>
 						</button>
-						
-						<button class="btn btn-success" onclick="alert('这只是个图标而已,不是按钮');">
+
+						<button class="btn btn-success">
 							<i class="ace-icon fa fa-signal"></i>
 						</button>
 
 						<!-- #section:basics/sidebar.layout.shortcuts -->
-						<button class="btn btn-warning" title="" id="adminzidian" onclick="alert('这只是个图标而已,不是按钮');">
+						<button class="btn btn-warning" title="" id="adminzidian">
 							<i class="ace-icon fa fa-book"></i>
 						</button>
 
-						<button class="btn btn-danger" onclick="alert('这只是个图标而已,不是按钮');">
+						<button class="btn btn-danger">
 							<i class="ace-icon fa fa-cogs"></i>
 						</button>
 

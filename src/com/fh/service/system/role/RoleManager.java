@@ -6,8 +6,6 @@ import com.fh.entity.system.Role;
 import com.fh.util.PageData;
 
 /**	角色接口类
- * @author FHadmin QQ936102123
- * 修改日期：2015.11.6
  */
 public interface RoleManager {
 	

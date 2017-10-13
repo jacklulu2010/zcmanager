@@ -134,6 +134,5 @@
                  #{item}
 		</foreach>
 	</delete>
-	
-	<!-- fh936102123qq(flj) -->
+
 </mapper>

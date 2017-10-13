@@ -237,7 +237,7 @@ function save(){
 		$("#COUNTPAGE").focus();
 		return false;
 	}
-	
+	/*
 	if($("#SMTP").val()==""){
 		$("#SMTP").tips({
 			side:1,
@@ -290,7 +290,7 @@ function save(){
         });
 		$("#PAW").focus();
 		return false;
-	}
+	}*/
 	
 	$("#Form").submit();
 	$("#zhongxin").hide();

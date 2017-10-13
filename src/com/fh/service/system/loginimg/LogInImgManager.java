@@ -6,9 +6,6 @@ import com.fh.util.PageData;
 
 /** 
  * 说明： 登录页面背景图片接口
- * 创建人：FH Q936102123
- * 创建时间：2016-06-03
- * @version
  */
 public interface LogInImgManager{
 
