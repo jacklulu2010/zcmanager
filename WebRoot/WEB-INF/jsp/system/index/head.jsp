@@ -58,12 +58,12 @@
 								<span class="badge badge-important"></span>
 							</a>
 
-							<ul class="dropdown-menu-right dropdown-navbar navbar-pink dropdown-menu dropdown-caret dropdown-close">
-								<li class="dropdown-header">
-									<i class="ace-icon fa fa-bell-o"></i>
-									即时通讯
-								</li>
-							</ul>
+							<%--<ul class="dropdown-menu-right dropdown-navbar navbar-pink dropdown-menu dropdown-caret dropdown-close">--%>
+								<%--<li class="dropdown-header">--%>
+									<%--<i class="ace-icon fa fa-bell-o"></i>--%>
+									<%--即时通讯--%>
+								<%--</li>--%>
+							<%--</ul>--%>
 						</li>
 
 						<li title="站内信" class="green" onclick="fhsms();" id="fhsmstss"><!-- fhsms()在 WebRoot\static\js\myjs\head.js中 -->
